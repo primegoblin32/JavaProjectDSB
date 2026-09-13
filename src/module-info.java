@@ -5,4 +5,5 @@ module javaprojectdsb {
     exports madLibsGame;
     exports shoppingCartProgram;
     exports compoundInterestCalculator;
+    exports weightConverterProgram;
 }
