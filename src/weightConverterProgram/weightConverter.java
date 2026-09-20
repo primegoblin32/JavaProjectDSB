@@ -73,5 +73,6 @@ public class weightConverter extends Application {
         primaryStage.setTitle("Weight Converter");
         primaryStage.setScene(scene);
         primaryStage.show();
+
     }
 }

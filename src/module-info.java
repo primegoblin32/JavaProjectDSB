@@ -6,4 +6,5 @@ module javaprojectdsb {
     exports shoppingCartProgram;
     exports compoundInterestCalculator;
     exports weightConverterProgram;
+    exports temperatureConverterProgram;
 }
